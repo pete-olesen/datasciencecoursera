@@ -1,0 +1,17 @@
+---
+title: "Hello World"
+author: "Pete Olesen"
+date: '2022-05-04'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+This is an R Markdown document. This is the first assignment in the Coursera course - Data scientists toolbox.  This is a multi-part R and data science course. The course can be found here...
+
+[Data Scientists Toolbox](https://www.coursera.org/learn/data-scientists-tools/home/welcome)
+
